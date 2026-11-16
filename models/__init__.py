@@ -1,0 +1,1 @@
+from . import Patient, Doctor, Department, PatientLogs, res_partner
